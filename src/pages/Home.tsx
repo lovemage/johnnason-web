@@ -35,7 +35,7 @@ const Home: React.FC = () => {
   const featuredProducts = [
     {
       id: 1,
-      image: 'https://images.unsplash.com/photo-1621619856624-43c2781c542a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80',
+      image: 'https://images.unsplash.com/photo-1536939459926-301728717817?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       title: 'Industrial Molds',
       description: 'High-precision injection molds for automotive and consumer electronics applications.',
       category: 'Mold Solutions',
@@ -49,9 +49,9 @@ const Home: React.FC = () => {
       category: 'Raw Materials',
       link: '/raw-materials'
     },
-    {
+    {htt
       id: 3,
-      image: 'https://images.unsplash.com/photo-1610566310365-7fdd3f255942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80',
+      image: 'https://images.unsplash.com/photo-1602223114290-ba6de2938acc?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       title: 'Precision Components',
       description: 'Engineered precision parts and components for critical applications.',
       category: 'Finished Products',
