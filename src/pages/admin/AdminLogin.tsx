@@ -17,7 +17,7 @@ const AdminLogin: React.FC = () => {
     
     // Simulate authentication (in a real app, this would be an API call)
     setTimeout(() => {
-      if (email === 'admin@globaltech.com' && password === 'admin123') {
+      if (email === 'johnnason@tech.com' && password === 'johnnason0204') {
         localStorage.setItem('authToken', 'dummy-token');
         navigate('/admin/dashboard');
       } else {
@@ -113,8 +113,8 @@ const AdminLogin: React.FC = () => {
           
           <div className="mt-6 text-center text-sm text-secondary-600">
             <p>For demo purposes, use:</p>
-            <p className="font-medium">Email: admin@globaltech.com</p>
-            <p className="font-medium">Password: admin123</p>
+            <p className="font-medium">Email: johnnason@tech.com</p>
+            <p className="font-medium">Password: johnnason0204</p>
           </div>
         </div>
       </div>
